@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainBox{
+    width: 90%;
+    height: 560px;
+    background-color: #777;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    padding-top: 23px;
+    padding-left: 70px;
+    padding-right: 70px;
+    
+}
+.mainBox .secoundMainBox{
+   
+    background-color: palevioletred;
+    width: 1090px;
+    height: 370px;
+    margin-top: 50px;
+    padding-top: 15px;
+    
+}
+.mainBox .headBox{
+    width: 1090px;
+    height: 70px;
+    background-color: red;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 10px;
+}
+.head1{
+    background-color: green;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-bottom: 10px;
+    
+}
+.longBox1{
+ 
+    background-color: yellow;
+    width: 90%;
+    height: 60px;
+    padding-top: 45px;
+    margin-left: 45px;
+}
+.longBox2{
+ 
+    background-color: yellow;
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+
+}
+.longBox3{
+ 
+    background-color: yellow;
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+
+}
+.longBox4{
+ 
+    background-color: yellow;
+    width: 90%;
+    height: 60px;
+    margin-left: 45px;
+}
+.secoundMainBox span{
+    margin-left: 45px;
+}
